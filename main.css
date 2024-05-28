@@ -1,6 +1,11 @@
+.nav-text{
+    font-size: x-large;
+    font-family: Comic Sans MS;
+
+}
 .size{
     font-size: xx-large;
-    text-align: left;
+    font-family: Comic Sans MS;
 }
 .trans-color{
     background-color: rgba(0, 0, 0, 0.4); 

@@ -17,6 +17,9 @@
 .trans-color{
     background-color: rgba(0, 0, 0, 0.4); 
 }
+.transparent-color{
+    background-color: rgba(0, 0, 0, 0.7); 
+}
 .background-image {
     width: 40%;
     height: auto;
@@ -32,6 +35,7 @@
     border-radius: 5px;
     padding: 8px;
   }
+
 .modal-header {
     border-bottom: none;
 }
@@ -40,5 +44,27 @@
     justify-content: center;
     align-items: center;
 }
+.ars {
+    background-image: url("ars.webp");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: auto; /* Adjust height as needed */
+}
+.vg {
+    background-image: url("vp.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: auto; /* Adjust height as needed */
+}
+.lib {
+    background-image: url("lib.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: auto; /* Adjust height as needed */
+}
+
 
 

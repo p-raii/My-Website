@@ -8,11 +8,12 @@
     font-family: Comic Sans MS;
     color:white;
 }
-@media (max-width: 576px) {
-    .size {
-        font-size: large; /* Adjust font size for even smaller screens */
+@media (max-width: 1000px) {
+    .nav-text {
+        font-size: 2vw;
     }
 }
+
 .trans-color{
     background-color: rgba(0, 0, 0, 0.4); 
 }
@@ -34,4 +35,10 @@
 .modal-header {
     border-bottom: none;
 }
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 

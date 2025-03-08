@@ -65,6 +65,8 @@
     background-repeat: no-repeat;
     height: auto; /* Adjust height as needed */
 }
-
+.nav-link:hover {
+    color: black !important;
+  }
 
 

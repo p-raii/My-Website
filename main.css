@@ -26,3 +26,12 @@
     height: 100vh;
     margin: 0;
 }
+.btn-close {
+    background-color: #ffffff; /* Light color */
+    border-radius: 5px;
+    padding: 8px;
+  }
+.modal-header {
+    border-bottom: none;
+}
+

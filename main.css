@@ -13,6 +13,11 @@
         font-size: 2vw;
     }
 }
+@media (max-width: 1000px) {
+    .size {
+        font-size: 3vw;
+    }
+}
 
 .trans-color{
     background-color: rgba(0, 0, 0, 0.4); 

@@ -49,27 +49,8 @@
     justify-content: center;
     align-items: center;
 }
-.ars {
-    background-image: url("ars.webp");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    height: auto; /* Adjust height as needed */
-}
-.vg {
-    background-image: url("vp.jpg");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    height: auto; /* Adjust height as needed */
-}
-.lib {
-    background-image: url("lib.jpg");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    height: auto; /* Adjust height as needed */
-}
+
+
 .nav-link:hover {
     color: black !important;
   }

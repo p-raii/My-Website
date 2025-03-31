@@ -30,11 +30,10 @@
     height: auto;
     z-index: -1; 
     }
-.section
-{
-    height: 100vh;
-    margin: 0;
-}
+    .section {
+        overflow: hidden;
+        min-height: 100vh; /* Ensure section is at least full height */
+    }
 .btn-close {
     background-color: #ffffff; /* Light color */
     border-radius: 5px;

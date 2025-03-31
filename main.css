@@ -49,7 +49,29 @@
     align-items: center;
 }
 
+.icon-bg {
+    position: relative;
+    background: linear-gradient(135deg, #1e3c72, #2a5298);
+    height: 300px;
+  }
 
+  .icon-bg::before {
+    content: "★";
+    position: absolute;
+    top: 20px;
+    left: 40px;
+    font-size: 50px;
+    color: rgba(255, 255, 255, 0.3);
+  }
+
+  .icon-bg::after {
+    content: "★";
+    position: absolute;
+    bottom: 40px;
+    right: 60px;
+    font-size: 70px;
+    color: rgba(255, 255, 255, 0.2);
+  }
 .nav-link:hover {
     color: black !important;
   }

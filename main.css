@@ -10,12 +10,12 @@
 }
 @media (max-width: 1000px) {
     .nav-text {
-        font-size: 2vw;
+        font-size: 4vw;
     }
 }
 @media (max-width: 1000px) {
     .size {
-        font-size: 3vw;
+        font-size: 4vw;
     }
 }
 

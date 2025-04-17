@@ -56,7 +56,7 @@
     background-image: url('/1.jpg');
     background-size: cover;
     background-position: center;
-    height: auto;
+    min-height: 50vh;
   }
  
 
